@@ -1,6 +1,7 @@
 
-#
-Council of Data Facilities Charter         Approved December 9, 2014
+This copy is for easy linking
+
+Approved December 9, 2014
 
 # Council of Data Facilities Founding Charter
 
